@@ -3,7 +3,7 @@ from openpyxl import load_workbook
 import itertools
 
 year='m1'
-wb = load_workbook(f'stages-{year}.xlsx',)
+wb = load_workbook(f'stages-2025.xlsx',)
 print('sheets:',wb.sheetnames)
 
 
@@ -32,6 +32,7 @@ def writeTableEntry(f, n, fn, s, e, w):
 
 
 for module,master in masterlist:
+    print('module:', module, 'master:', master)
     if module == year:
         f = open("modules/"+module+"/partials/rapports.adoc", "w")
         for n, fn, c, s, e,w in sorted(zip(names, firstnames, codes, sujets, entreprises,www_entreprises), key=lambda x: x[0].value):

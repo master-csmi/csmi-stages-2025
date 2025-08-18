@@ -1,30 +1,32 @@
 
- - [[[Anki]]] Anki Lucas, _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un vehicle routing problem._, link:http://synovo.fr[Synovo], link:{attachmentsdir}/++Anki-Lucas.pdf++[Anki-Lucas.pdf],  link:{attachmentsdir}/++Anki-Lucas-slides.pdf++[Anki-Lucas-slides.pdf] 
+ - [[[Assigbe]]] Assigbe Komi Joseph Beni, _Acm (assurances Du Credit Mutuel) Gie_, Acm (assurances Du Credit Mutuel) Gie, xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf], xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf]
 
- - [[[Azzoug]]] Azzoug Celia, _Développement applicatif_, link:[New Xperience-3D], link:{attachmentsdir}/++Azzoug-Celia.pdf++[Azzoug-Celia.pdf],  link:{attachmentsdir}/++Azzoug-Celia-slides.pdf++[Azzoug-Celia-slides.pdf] 
+ - [[[Bouhenniche]]] Bouhenniche Oussama, _Universite De Strasbourg - Ufr Math-Info_, Universite De Strasbourg - Ufr Math-Info, xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf], xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
- - [[[Bernard]]] Bernard Pierre, _Accompagner TotalEnergies dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._, link:https://www.totalenergies.fr/[TotalEnergies], link:{attachmentsdir}/++Bernard-Pierre.pdf++[Bernard-Pierre.pdf],  link:{attachmentsdir}/++Bernard-Pierre-slides.pdf++[Bernard-Pierre-slides.pdf] 
+ - [[[CarpiLapi]]] Carpi Lapi Giulio, _Siemens Software Industry_, Siemens Software Industry, xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf], xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf]
 
- - [[[ElHoussaini]]] El Houssaini Youness, _Control of the goldak heat source parameters
-based on experimental welding data using finite element analysis._, link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials], link:{attachmentsdir}/++El Houssaini-Youness.pdf++[El Houssaini-Youness.pdf],  link:{attachmentsdir}/++El Houssaini-Youness-slides.pdf++[El Houssaini-Youness-slides.pdf] 
+ - [[[Demuth]]] Demuth Axel, _Cea Centre Dam Ile-De-France_, Cea Centre Dam Ile-De-France, xref:attachment$Demuth-Axel.pdf[Demuth-Axel.pdf], xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf]
 
- - [[[Graff]]] Graff Jonathan, _Algèbres géométriques pour la robotique en coq_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Graff-Jonathan.pdf++[Graff-Jonathan.pdf],  link:{attachmentsdir}/++Graff-Jonathan-slides.pdf++[Graff-Jonathan-slides.pdf] 
+ - [[[Dieng]]] Dieng Adama, _Irma - Cnrs Umr7501 - Universite De Strasbourg_, Irma - Cnrs Umr7501 - Universite De Strasbourg, xref:attachment$Dieng-Adama.pdf[Dieng-Adama.pdf], xref:attachment$Dieng-Adama-slides.pdf[Dieng-Adama-slides.pdf]
 
- - [[[Madani]]] Madani Sarra Amel, _Stage consultante sap bi_, link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services], [rapport secret],  [présentation secrète] 
+ - [[[Ehret]]] Ehret Justine, _Socomec_, link:http://www.socomec.fr/[Socomec], xref:attachment$Ehret-Justine.pdf[Ehret-Justine.pdf], xref:attachment$Ehret-Justine-slides.pdf[Ehret-Justine-slides.pdf]
 
- - [[[NzoyemNgueguin]]] Nzoyem Ngueguin Roussel Desmond, _Fracturation des floes de glace par percussion dans un modèle granulaire_, link:https://www.ljll.math.upmc.fr/en/?lang=fr[Sorbonne Universite], link:{attachmentsdir}/++NzoyemNgueguin-RousselDesmond.pdf++[NzoyemNgueguin-RousselDesmond.pdf],  link:{attachmentsdir}/++NzoyemNgueguin-RousselDesmond-slides.pdf++[NzoyemNgueguin-RousselDesmond-slides.pdf] 
+ - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Cea Saclay_, Cea Saclay, xref:attachment$Geraldes Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf], xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf]
 
- - [[[Ouachour]]] Ouachour Hanane, _apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - université d'orléans - projet rtr diams (19022lif)_, link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans], link:{attachmentsdir}/++Ouachour-Hanane.pdf++[Ouachour-Hanane.pdf],  link:{attachmentsdir}/++Ouachour-Hanane-slides.pdf++[Ouachour-Hanane-slides.pdf] 
+ - [[[PortilloNavarrete]]] Portillo Navarrete Jose Rene, _Shift Technology_, link:https://www.shift-technology.com/[Shift Technology], xref:attachment$Portillo Navarrete-Jose Rene.pdf[Portillo Navarrete-Jose Rene.pdf], xref:attachment$Portillo Navarrete-Jose Rene-slides.pdf[Portillo Navarrete-Jose Rene-slides.pdf]
 
- - [[[Pinçon]]] Pinçon Philippe, _Mise à jour de factorisations de cholesky creuses dans le contexte de la simulation chirurgicale
-interactive._, link:https://www.insimo.com/fr/[Insimo], link:{attachmentsdir}/++Pinçon-Philippe.pdf++[Pinçon-Philippe.pdf],  link:{attachmentsdir}/++Pinçon-Philippe-slides.pdf++[Pinçon-Philippe-slides.pdf] 
+ - [[[Rahouti]]] Rahouti Chahid, _Acome_, link:www.acome.fr[Acome], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf], xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
 
- - [[[Pinçon]]] Pinçon Philippe, _Mise à jour de factorisations de cholesky creuses dans le contexte de la simulation chirurgicale interactive._, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Pinçon-Philippe.pdf++[Pinçon-Philippe.pdf],  link:{attachmentsdir}/++Pinçon-Philippe-slides.pdf++[Pinçon-Philippe-slides.pdf] 
+ - [[[Regardin]]] Regardin Antoine, _Inrae_, link:http://www.versailles-grignon.inra.fr[Inrae], xref:attachment$Regardin-Antoine.pdf[Regardin-Antoine.pdf], xref:attachment$Regardin-Antoine-slides.pdf[Regardin-Antoine-slides.pdf]
 
- - [[[Saigre-Tardif]]] Saigre-Tardif Thomas, _Méthode de réduction d'ordre pour un modèle poreux-élastique et couplage avec un système d'edo_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Saigre-Tardif-Thomas.pdf++[Saigre-Tardif-Thomas.pdf],  link:{attachmentsdir}/++Saigre-Tardif-Thomas-slides.pdf++[Saigre-Tardif-Thomas-slides.pdf] 
+ - [[[Roth]]] Roth Robin, _Societe Generale_, link:http://www.societegenerale.fr/[Societe Generale], xref:attachment$Roth-Robin.pdf[Roth-Robin.pdf], xref:attachment$Roth-Robin-slides.pdf[Roth-Robin-slides.pdf]
 
- - [[[Sprunck]]] Sprunck Tom, _Estimation rapide des courants et inondations de tsunami à partir d'algorithmes de deep learning_, link:[Cea Centre Dam Ile-De-France], link:{attachmentsdir}/++Sprunck-Tom.pdf++[Sprunck-Tom.pdf],  link:{attachmentsdir}/++Sprunck-Tom-slides.pdf++[Sprunck-Tom-slides.pdf] 
+ - [[[Schmittbiel]]] Schmittbiel Carl, _Cerema - Direction Territoriale Est- Agence De Strasbourg_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], xref:attachment$Schmittbiel-Carl.pdf[Schmittbiel-Carl.pdf], xref:attachment$Schmittbiel-Carl-slides.pdf[Schmittbiel-Carl-slides.pdf]
 
- - [[[Steimer]]] Steimer Guillaume, _Apprendre la dynamique hamiltonienne avec des réseaux de neurones_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Steimer-Guillaume.pdf++[Steimer-Guillaume.pdf],  link:{attachmentsdir}/++Steimer-Guillaume-slides.pdf++[Steimer-Guillaume-slides.pdf] 
+ - [[[Senger]]] Senger Pierre-Antoine, _Irma - Cnrs Umr7501 - Universite De Strasbourg_, Irma - Cnrs Umr7501 - Universite De Strasbourg, xref:attachment$Senger-Pierre-Antoine.pdf[Senger-Pierre-Antoine.pdf], xref:attachment$Senger-Pierre-Antoine-slides.pdf[Senger-Pierre-Antoine-slides.pdf]
 
- - [[[Vallet]]] Vallet Romain, _Modélisation d'aimant supra conducteur a haute température critique_, link:[Cnrs], link:https://master-csmi.github.io/2020-m2-lncmi/lncmicfpdes/cfpdes/index.html[Antora Site],  link:{attachmentsdir}/++Vallet-Romain-slides.pdf++[Vallet-Romain-slides.pdf] 
+ - [[[Sengler]]] Sengler Marie, _Thales Avs France Sas_, Thales Avs France Sas, xref:attachment$Sengler-Marie.pdf[Sengler-Marie.pdf], xref:attachment$Sengler-Marie-slides.pdf[Sengler-Marie-slides.pdf]
+
+ - [[[Tlili]]] Tlili Rayen, _Avnir Energy_, Avnir Energy, xref:attachment$Tlili-Rayen.pdf[Tlili-Rayen.pdf], xref:attachment$Tlili-Rayen-slides.pdf[Tlili-Rayen-slides.pdf]
+
+ - [[[Wade]]] Wade Abdou, _Universite De Strasbourg - Ufr Math-Info_, Universite De Strasbourg - Ufr Math-Info, xref:attachment$Wade-Abdou.pdf[Wade-Abdou.pdf], xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf]

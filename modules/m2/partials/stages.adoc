@@ -2,34 +2,24 @@
 |===
 | Nom | Prénom | Entreprise | Sujet
 
-| Anki | Lucas | link:http://synovo.fr[Synovo] | _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un Vehicle Routing Problem._
-
-| Azzoug | Celia | link:[New Xperience-3D] | _Développement Applicatif_
-
-| Bernard | Pierre | link:https://www.totalenergies.fr/[TotalEnergies] | _Accompagner TotalEnergies dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._
-
-| El Houssaini | Youness | link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials] | _Control of the Goldak heat source parameters_x000D_
-based on experimental welding data using finite element analysis._
-
-| Graff | Jonathan | link:https://www.unistra.fr[Universite De Strasbourg] | _Algèbres géométriques pour la robotique en Coq_
-
-| Madani | Sarra Amel | link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services] | _Stage Consultante SAP BI_
-
-| Nzoyem Ngueguin | Roussel Desmond | link:[Sorbonne Universite] | _Fracturation des floes de glace par percussions dans un modèle granulaire_
-
-| Ouachour | Hanane | link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans] | _Apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - Université d'Orléans - Projet RTR DIAMS (19022LIF)_
-
-| Pinçon | Philippe | link:https://www.insimo.com/fr/[Insimo] | _Mise à jour de factorisations de Cholesky creuses dans le contexte de la simulation chirurgicale_x000D_
-interactive._
-
-| Pinçon | Philippe | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Mise à jour de factorisations de Cholesky creuses dans le contexte de la simulation chirurgicale interactive._
-
-| Saigre-Tardif | Thomas | link:[Universite De Strasbourg - Ufr Math-Info] | _Méthode de réduction d'ordre pour un modèle poreux-élastique et couplage avec un système d'EDO_
-
-| Sprunck | Tom | link:[Cea Centre Dam Ile-De-France] | _Estimation rapide des courants et inondations de tsunami à partir d'algorithmes de deep learning_
-
-| Steimer | Guillaume | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Apprendre la dynamique Hamiltonienne avec des réseaux de neurones_
-
-| Vallet | Romain | link:[Cnrs] | _Modélisation d'aimant supra conducteur a Haute Température Critique_
-
+| Assigbe | Komi Joseph Beni | Acm (assurances Du Credit Mutuel) Gie | _Data- Sciences & Machines Learning_
+| Bouhenniche | Oussama | Universite De Strasbourg - Ufr Math-Info | _Asymptotic and structure preserving numerical scheme for sound-proof atmospheric flow equations_
+| Carpi Lapi | Giulio | Siemens Software Industry | _Kineo est un département de Siemens Digital Industry Software spécialiste de la géométrie algorithmique. Cette équipe de R&D conçoit et développe des algorithmes de détection de collision, de robotique, de simulation de câbles flexibles, etc.  
+Kineo développe un planificateur de mouvement pour robot industriel. Cet algorithme issu de l'intelligence artificielle permet aux robots de calculer automatiquement sa trajectoire pour accomplir sa tâche en évitant les obstacles ou les autres robots présents dans l'usine. Cette fonctionnalité est utilisée par les clients de Siemens au sein du logiciel de programmation de robot hors ligne, Process Simulate.  
+Kineo souhaite aller plus loin dans l'autonomie du robot. Process Simulate propose un environnement de simulation d'usine très poussé permettant de simuler des capteurs ou des caméras et de prédire le mouvement des objets grâce à moteur physique sophistiqué._
+| Demuth | Axel | Cea Centre Dam Ile-De-France | _Développement d’algorithmes de calcul de distances à une
+interface dans un code HPC_
+| Dieng | Adama | Irma - Cnrs Umr7501 - Universite De Strasbourg | _Mathematical Modeling and Simulation of Organ-On-Chips (OOC)_
+| Ehret | Justine | link:http://www.socomec.fr/[Socomec] | _Optimiser la consommation énergétique des systèmes de régulation thermique des batteries. Le but est d'identifier et d'analyser les paramètres influençant la consommation énergétique (internes et externes), les quantifier à l’aide d’outils comme la PCA et les régressions, ainsi que d'identifier les axes d’optimisation._
+| Geraldes Pereira | Dorian | Cea Saclay | _IA pour la reconstruction 3D_
+| Portillo Navarrete | Jose Rene | link:https://www.shift-technology.com/[Shift Technology] | _Data science pour la détéction de fraudes._
+| Rahouti | Chahid | link:www.acome.fr[Acome] | _Modèles Réduits pour la construction d’un jumeau numérique de l’extrusion de 
+polymères_
+| Regardin | Antoine | link:http://www.versailles-grignon.inra.fr[Inrae] | _Physics-Informed Generative Neural Networks for stochastic PDEs_
+| Roth | Robin | link:http://www.societegenerale.fr/[Societe Generale] | _Assistance Agile Business Analyst Monétique_
+| Schmittbiel | Carl | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Conception et développement d'un outil de pilotage pour l’observatoire métropolitain des nuisances environnementales sur le périmètre de l’avenue du Rhin_
+| Senger | Pierre-Antoine | Irma - Cnrs Umr7501 - Universite De Strasbourg | _Méthodes numériques avancées pour la modélisation mathématique en ophtalmologie_
+| Sengler | Marie | Thales Avs France Sas | _Etudes et améliorations de méta-modèles PINNs pour la simulation de champ magnétique_
+| Tlili | Rayen | Avnir Energy | _Simulation numérique de la propagation d’ondes dans la cuve d’un réacteur nucléaire via la méthode des éléments spectraux._
+| Wade | Abdou | Universite De Strasbourg - Ufr Math-Info | _Problème inverse pour la tomographie optique, applications à la mesure de turbidité_
 |===
