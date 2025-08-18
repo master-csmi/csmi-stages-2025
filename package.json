@@ -1,0 +1,53 @@
+{
+  "private": true,
+  "name": "csmi-stages",
+  "description": "Stages Master CSMI",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "author": "Christophe Prud'homme",
+  "homepage": "https://www.github.com/master-csmi/csmi-stages#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/master-csmi/csmi-stages.git"
+  },
+  "bugs": {
+    "url": "https://www.github.com/master-csmi/csmi-stages/issues"
+  },
+  "contributors": [
+    {
+      "name": "Christophe Prud'homme",
+      "email": "christophe.prudhomme@cemosis.fr"
+    }
+  ],
+  "scripts": {
+    "prose": "write-good --parse **/*.adoc",
+    "start": "http-server public/ -d -i",
+    "antora": "antora --stacktrace generate --cache-dir cache/antora --clean site.yml",
+    "validate": "antora --stacktrace generate --cache-dir cache --generator ./generator/xref-validator.js --clean site.yml",
+    "linkcheck": "broken-link-checker --filter-level 3 --recursive --verbose"
+  },
+  "dependencies": {
+    "@antora/cli": "^3.1",
+    "@antora/collector-extension": "^1.0.0-alpha.7",
+    "@antora/site-generator-default": "^3.1",
+    "@asciidoctor/core": "^2.2.8",
+    "asciidoctor": "^2.2.8",
+    "asciidoctor-jupyter": "^0.7.0",
+    "asciidoctor-kroki": "^0.18.1",
+    "handlebars": "^4.7.7",
+    "handlebars-utils": "^1.0.6",
+    "@djencks/asciidoctor-template": "^0.0.3",
+    "@feelpp/asciidoctor-extensions": "^1.0.0-rc.11",
+    "asciidoctor-emoji": "^0.4.2"
+  },
+  "devDependencies": {
+    "broken-link-checker": "^0.7.8",
+    "http-server": "^14.1.1",
+    "write-good": "^0.13.1"
+  },
+  "keywords": [
+    "antora",
+    "asciidoc",
+    "documentation"
+  ]
+}

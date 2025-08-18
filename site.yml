@@ -1,0 +1,36 @@
+site:
+  title: Master CSMI::Stages {year}
+  url: https://master-csmi.github.io/csmi-stages-{year}
+  start_page: csmi-stages-{year}:ROOT:index.adoc
+content:
+  sources:
+  - url: ./
+    branches: HEAD
+ui:
+  bundle:
+    url: https://github.com/feelpp/antora-ui/releases/latest/download/ui-bundle.zip 
+    snapshot: true
+output:
+  clean: true
+  dir: public
+  
+asciidoc:
+  attributes:
+    project_version: 0.1
+    deploymentRoot: ""
+    numbered: true
+    allow-uri-read: true
+    hide-uri-scheme: true
+    year: 2025
+    feelpp: Feel++
+    angiotk: AngioTK
+    4fastsim: 4FastSim
+    stem: latexmath
+    hemotumpp: Hemotum++
+    eye2brain: Eye2Brain
+    swimmer: Swimmer
+    cemosis: https://www.cemosis.fr[Cemosis]
+    amies: https://www.agence-maths-entreprises.fr/[AMIES]
+  extensions:
+    - ./lib/tabs-block
+    - "@djencks/asciidoctor-template"

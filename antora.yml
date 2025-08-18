@@ -1,0 +1,12 @@
+name: csmi-stages-{year}
+title: Master CSMI {year}
+version: ~
+start_page: ROOT:index.adoc
+asciidoc: 
+  attributes: 
+    hide-uri-scheme: '' 
+    year: {year}
+nav:
+- modules/ROOT/nav.adoc
+- modules/m1/nav.adoc
+- modules/m2/nav.adoc
