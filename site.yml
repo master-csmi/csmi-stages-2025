@@ -1,7 +1,7 @@
 site:
-  title: Master CSMI::Stages {year}
-  url: https://master-csmi.github.io/csmi-stages-{year}
-  start_page: csmi-stages-{year}:ROOT:index.adoc
+  title: Master CSMI::Stages 2025
+  url: https://master-csmi.github.io/csmi-stages-2025
+  start_page: csmi-stages-2025:ROOT:index.adoc
 content:
   sources:
   - url: ./

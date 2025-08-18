@@ -2,7 +2,7 @@
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
-= Master M1 CSMI {year}
+= Master M1 CSMI 2025
 
 == Stages
 
