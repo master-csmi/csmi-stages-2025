@@ -13,7 +13,7 @@
 
  - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Cea Saclay_, Cea Saclay, xref:attachment$Geraldes Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf], xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf]
 
- - [[[PortilloNavarrete]]] Portillo Navarrete Jose Rene, _Shift Technology_, link:https://www.shift-technology.com/[Shift Technology], xref:attachment$Portillo Navarrete-Jose Rene.pdf[Portillo Navarrete-Jose Rene.pdf], xref:attachment$Portillo Navarrete-Jose Rene-slides.pdf[Portillo Navarrete-Jose Rene-slides.pdf]
+ - [[[PortilloNavarrete]]] Portillo Navarrete Jose Rene, _Shift Technology_, link:https://www.shift-technology.com/[Shift Technology], xref:attachment$Portillo Navarrete-Jose Rene.pdf[Portillo-Jose.pdf], xref:attachment$Portillo Navarrete-Jose Rene-slides.pdf[Portillo Navarrete-Jose Rene-slides.pdf]
 
  - [[[Rahouti]]] Rahouti Chahid, _Acome_, link:www.acome.fr[Acome], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf], xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
 
