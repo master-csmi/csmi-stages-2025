@@ -3,7 +3,7 @@
 
  - [[[Bouhenniche]]] Bouhenniche Oussama, _Universite De Strasbourg - Ufr Math-Info_, Universite De Strasbourg - Ufr Math-Info, xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf], xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
- - [[[CarpiLapi]]] Carpi Lapi Giulio, _Siemens Software Industry_, Siemens Software Industry, xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf], xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf]
+ - [[[CarpiLapi]]] Carpi Lapi Giulio, _Siemens Software Industry_, Siemens Software Industry, xref:attachment$Carpi-Lapi-Giulio.pdf[Carpi-Lapi-Giulio.pdf], xref:attachment$Carpi-Lapi-Giulio-slides.pdf[Carpi-Lapi-Giulio-slides.pdf]
 
  - [[[Demuth]]] Demuth Axel, _Cea Centre Dam Ile-De-France_, Cea Centre Dam Ile-De-France, xref:attachment$Demuth-Axel.pdf[Demuth-Axel.pdf], xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf]
 
