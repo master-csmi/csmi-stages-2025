@@ -1,5 +1,5 @@
 
- - [[[Amiri]]] Amiri Helya, _Ecole Nationale Superieure D'Arts Et Metiers_, Ecole Nationale Superieure D'Arts Et Metiers, xref:attachment$Amiri-Helya.pdf[Amiri-Helya.pdf], xref:attachment$Amiri-Helya-slides.pdf[Amiri-Helya-slides.pdf]
+ - [[[Amiri]]] Amiri Helya, _Ecole Nationale Superieure D'Arts Et Metiers_, Ecole Nationale Superieure D'Arts Et Metiers, xref:attachment$Amiri-Helya.pdf[Amiri-Helya.pdf],   xref:attachment$Amiri-Helya-slides.pdf[Amiri-Helya-slides.pdf],  xref:attachment$CR-HDJ-13.xlsx[CR-HDJ-13.xlsx]
 
  - [[[Chetouane]]] Chetouane Hanna, _Avnir Energy_, Avnir Energy, xref:attachment$Chetouane-Hanna.pdf[Chetouane-Hanna.pdf], xref:attachment$Chetouane-Hanna-slides.pdf[Chetouane-Hanna-slides.pdf]
 
@@ -7,7 +7,7 @@
 
  - [[[Ruch]]] Ruch Antoine, _Irma - Cnrs Umr7501 - Universite De Strasbourg_, Irma - Cnrs Umr7501 - Universite De Strasbourg, xref:attachment$Ruch-Antoine.pdf[Ruch-Antoine.pdf], xref:attachment$Ruch-Antoine-slides.pdf[Ruch-Antoine-slides.pdf]
 
- - [[[Sarr]]] Sarr Abdoul Aziz, _Irma - Cnrs Umr7501 - Universite De Strasbourg_, Irma - Cnrs Umr7501 - Universite De Strasbourg, xref:attachment$Sarr-Abdoul Aziz.pdf[Sarr-Abdoul Aziz.pdf], xref:attachment$Sarr-Abdoul Aziz-slides.pdf[Sarr-Abdoul Aziz-slides.pdf]
+ - [[[Sarr]]] Sarr Abdoul Aziz, _Irma - Cnrs Umr7501 - Universite De Strasbourg_, Irma - Cnrs Umr7501 - Universite De Strasbourg, xref:attachment$Sarr-Abdoul-Aziz.pdf[Sarr-Abdoul-Aziz.pdf], xref:attachment$Sarr-Abdoul-Aziz-slides.pdf[Sarr-Abdoul-Aziz-slides.pdf]
 
  - [[[Sow]]] Sow Ablaye, _Irma - Cnrs Umr7501 - Universite De Strasbourg_, Irma - Cnrs Umr7501 - Universite De Strasbourg, xref:attachment$Sow-Ablaye.pdf[Sow-Ablaye.pdf], xref:attachment$Sow-Ablaye-slides.pdf[Sow-Ablaye-slides.pdf]
 

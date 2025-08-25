@@ -3,7 +3,7 @@
 
  - [[[Bouhenniche]]] Bouhenniche Oussama, _Universite De Strasbourg - Ufr Math-Info_, Universite De Strasbourg - Ufr Math-Info, xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf], xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
- - [[[CarpiLapi]]] Carpi Lapi Giulio, _Siemens Software Industry_, Siemens Software Industry, xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf], xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf]
+ - [[[CarpiLapi]]] Carpi Lapi Giulio, _Siemens Software Industry_, Siemens Software Industry, xref:attachment$Carpi-Lapi-Giulio.pdf[Carpi-Lapi-Giulio.pdf], xref:attachment$Carpi-Lapi-Giulio-slides.pdf[Carpi-Lapi-Giulio-slides.pdf]
 
  - [[[Demuth]]] Demuth Axel, _Cea Centre Dam Ile-De-France_, Cea Centre Dam Ile-De-France, xref:attachment$Demuth-Axel.pdf[Demuth-Axel.pdf], xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf]
 
@@ -11,9 +11,9 @@
 
  - [[[Ehret]]] Ehret Justine, _Socomec_, link:http://www.socomec.fr/[Socomec], xref:attachment$Ehret-Justine.pdf[Ehret-Justine.pdf], xref:attachment$Ehret-Justine-slides.pdf[Ehret-Justine-slides.pdf]
 
- - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Cea Saclay_, Cea Saclay, xref:attachment$Geraldes Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf], xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf]
+ - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Cea Saclay_, Cea Saclay, xref:attachment$Geraldes-Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf], xref:attachment$Geraldes-Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf]
 
- - [[[PortilloNavarrete]]] Portillo Navarrete Jose Rene, _Shift Technology_, link:https://www.shift-technology.com/[Shift Technology], xref:attachment$Portillo Navarrete-Jose Rene.pdf[Portillo Navarrete-Jose Rene.pdf], xref:attachment$Portillo Navarrete-Jose Rene-slides.pdf[Portillo Navarrete-Jose Rene-slides.pdf]
+ - [[[PortilloNavarrete]]] Portillo Navarrete Jose Rene, _Shift Technology_, link:https://www.shift-technology.com/[Shift Technology], xref:attachment$Portillo-Jose.pdf[Portillo-Jose.pdf], xref:attachment$Portillo Navarrete-Jose Rene-slides.pdf[Portillo Navarrete-Jose Rene-slides.pdf]
 
  - [[[Rahouti]]] Rahouti Chahid, _Acome_, link:https://www.acome.com/fr/[Acome], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf], xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
 
