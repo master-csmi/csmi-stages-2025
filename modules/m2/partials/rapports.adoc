@@ -1,5 +1,5 @@
 
- - [[[Assigbe]]] Assigbe Komi Joseph Beni, _Acm (assurances Du Credit Mutuel) Gie_, Acm (assurances Du Credit Mutuel) Gie, xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf], xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf]
+ - [[[Assigbe]]] Assigbe Komi Joseph Beni, _Acm (assurances Du Credit Mutuel) Gie_, link:https://www.acm.fr/[Acm (Assurances Du Credit Mutuel) Gie], xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf], xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf]
 
  - [[[Bouhenniche]]] Bouhenniche Oussama, _Universite De Strasbourg - Ufr Math-Info_, Universite De Strasbourg - Ufr Math-Info, xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf], xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
