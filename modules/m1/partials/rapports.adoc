@@ -1,5 +1,5 @@
 
- - [[[Amiri]]] Amiri Helya, _Ecole Nationale Superieure D'Arts Et Metiers_, Ecole Nationale Superieure D'Arts Et Metiers, xref:attachment$Amiri-Helya.pdf[Amiri-Helya.pdf], xref:attachment$Amiri-Helya-slides.pdf[Amiri-Helya-slides.pdf]
+ - [[[Amiri]]] Amiri Helya, _Ecole Nationale Superieure D'Arts Et Metiers_, Ecole Nationale Superieure D'Arts Et Metiers, xref:attachment$Amiri-Helya.pdf[Amiri-Helya.pdf],   xref:attachment$Amiri-Helya-slides.pdf[Amiri-Helya-slides.pdf],  xref:attachment$CR-HDJ-13.xlsx[CR-HDJ-13.xlsx]
 
  - [[[Chetouane]]] Chetouane Hanna, _Avnir Energy_, Avnir Energy, xref:attachment$Chetouane-Hanna.pdf[Chetouane-Hanna.pdf], xref:attachment$Chetouane-Hanna-slides.pdf[Chetouane-Hanna-slides.pdf]
 
