@@ -2,7 +2,7 @@
 |===
 | Nom | Prénom | Entreprise | Sujet
 
-| Assigbe | Komi Joseph Beni | Acm (assurances Du Credit Mutuel) Gie | _Data- Sciences & Machines Learning_
+| Assigbe | Komi Joseph Beni | link:https://www.acm.fr/[Acm (Assurances Du Credit Mutuel) Gie] | _Data- Sciences & Machines Learning_
 | Bouhenniche | Oussama | Universite De Strasbourg - Ufr Math-Info | _Asymptotic and structure preserving numerical scheme for sound-proof atmospheric flow equations_
 | Carpi Lapi | Giulio | Siemens Software Industry | _Kineo est un département de Siemens Digital Industry Software spécialiste de la géométrie algorithmique. Cette équipe de R&D conçoit et développe des algorithmes de détection de collision, de robotique, de simulation de câbles flexibles, etc.  
 Kineo développe un planificateur de mouvement pour robot industriel. Cet algorithme issu de l'intelligence artificielle permet aux robots de calculer automatiquement sa trajectoire pour accomplir sa tâche en évitant les obstacles ou les autres robots présents dans l'usine. Cette fonctionnalité est utilisée par les clients de Siemens au sein du logiciel de programmation de robot hors ligne, Process Simulate.  
