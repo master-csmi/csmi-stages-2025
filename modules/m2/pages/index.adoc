@@ -13,3 +13,7 @@ include::partial$stages.adoc[]
 == Stages
 
 include::partial$rapports.adoc[]
+
+== Avis du jury
+
+include::partial$jury.adoc[]
