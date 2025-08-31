@@ -1,6 +1,14 @@
 :stem: latexmath
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
+:parent-catalogs: reports
+:page-tags: manual, m1
+:page-illustration: fa-solid fa-graduation-cap
+:description: Rapports de stage des étudiants en première année de master (2 mois)
+:page-cards-tag: manual            
+:page-cards-within-module: true    
+:page-cards-title: Reports
+:page-cards-order: 1
 
 = Master M1 CSMI 2025
 

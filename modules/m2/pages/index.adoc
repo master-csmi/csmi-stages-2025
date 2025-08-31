@@ -1,9 +1,14 @@
+= Master M2 CSMI 2025
 :stem: latexmath
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
-
-
-= Master M2 CSMI 2025
+:parent-catalogs: reports
+:page-tags: manual, m2
+:page-illustration: fa-solid fa-graduation-cap
+:description: Rapports de stage des étudiants en deuxième année de master (6 mois)
+:page-cards-tag: manual
+:page-cards-title: Reports
+:page-cards-order: 2
 
 == Stages
 
