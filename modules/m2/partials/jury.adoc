@@ -1,0 +1,22 @@
+Points positifs
+
+* Les performances techniques et méthodologiques des étudiants sont très appréciées et ont été relevées par les
+ encadrants.
+* Bonne mise en contexte scientifique et bibliographique.
+* Implémentations techniques solides, avec une appropriation des outils modernes (GitHub, CMake, CI, etc.).
+* Présence de résultats numériques, parfois avec des perspectives d’extension.
+
+Points à améliorer
+
+* Analyse des méthodes numériques : trop souvent superficielle, avec peu de justification des choix algorithmiques.
+* Coûts de calcul et aspects HPC : rarement chiffrés (temps CPU, mémoire, scalabilité).
+* Vérification/validation : cas tests simples manquent régulièrement, ce qui fragilise la crédibilité des résultats.
+* Présentation : résultats parfois trop descriptifs, avec peu d’analyse quantitative (erreurs, convergence, unités).
+* Structure : certains rapports restent trop narratifs (beaucoup de contexte, moins d’analyse scientifique).
+
+Quelques pistes pour ajuster la situation
+
+* Imposer une section de vérification avec un cas test simple (solution exacte, benchmark connu).
+* Demander systématiquement un tableau des coûts de calcul (CPU, mémoire, cœurs, séquentiel/parallèle).
+* Mettre en avant l’analyse critique des méthodes (choix, alternatives, limites).
+* Proposer un squelette de rapport standardisé avec sections obligatoires (méthodes, implémentation, validation, coûts, résultats).
